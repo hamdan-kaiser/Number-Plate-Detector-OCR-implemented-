@@ -69,7 +69,6 @@ public class DisplaySQLiteDataActivity extends AppCompatActivity {
             } while (cursor.moveToNext());
         }
 
-
         listAdapter = new ListAdapter(DisplaySQLiteDataActivity.this,
 
                 ID_Array,

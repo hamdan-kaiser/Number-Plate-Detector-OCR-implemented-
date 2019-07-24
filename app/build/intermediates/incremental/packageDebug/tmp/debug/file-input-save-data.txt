@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Jul 24 23:04:34 BDT 2019
+2.base=G\:\\Number Plate Detector\\Guru\\app\\build\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=swear_en.properties
+2.baseType=DIRECTORY
+3.base=G\:\\Number Plate Detector\\Guru\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=ASSET
+1.path=en_token.bin
+4.base=G\:\\Number Plate Detector\\Guru\\app\\build\\intermediates\\assets\\debug
+count=6
+5.baseType=DIRECTORY
+2.path=stopping_en.properties
+5.base=G\:\\Number Plate Detector\\Guru\\app\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=en_pos_maxent.bin
+1.baseType=DIRECTORY
+5.path=stopping_nl.properties
+0.base=G\:\\Number Plate Detector\\Guru\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=G\:\\Number Plate Detector\\Guru\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

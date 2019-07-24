@@ -1,0 +1,4 @@
+#Wed Jul 24 23:04:32 BDT 2019
+base.0=G\:\\Number Plate Detector\\Guru\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

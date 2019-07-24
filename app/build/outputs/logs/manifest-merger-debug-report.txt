@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b5e9ef467fa6d25bb43a561d6a158529\AndroidManifest.xml:17:1-22:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\018d3728880a7617ff882e9718955428\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad3e9b303dff5b1d90e4a964514907c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5cf639872b27bd3f86d3f14072b1fabf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\6e5f69d953c2773ec575f8b7ce1bc5c2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6fec7a148b695bff70d8bd1e07380d23\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\fd492a40737168e44e2681c85ce4db57\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\dccbf5beb81c1ab32a152419a3ff47ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\053aa3e344377c1ffa0616f8051d59bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7a91432bedd83f711c4284d43a61710c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1d3a30ae8267b7bc3c3c1a97ade0f620\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\053cc17f14cdf55068b111bca7342b72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\74cad888e9aa95bf2f2f58e3c6414010\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d70ca31c13f522892ec36932ee285b04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2b97991fb06e0e335bf7e10c2d2dfe52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\da1ce5ce66525caea8008e82eb8f7f9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cb843a105905a97364c0170ceaee2cb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\be73780269ac1ca141860b78a38f3d34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ec8d529d35aee7d74589d6062b1c8a70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4dc41f6d4e9a8228bd77f22ad561cad7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\f950d575c6000220fc010637638a36af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f5c0a2887a8096614b58b50af3f76aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b1edc18462bbb5dff3d30f937fe41cec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e988679613753c7c76b56ceff1c4c20\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fadd91863e0dc40c320c7efce307733\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera2
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:6:9-48
+uses-permission#android.permission.INTERNET
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:13:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5cf639872b27bd3f86d3f14072b1fabf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5cf639872b27bd3f86d3f14072b1fabf\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\6e5f69d953c2773ec575f8b7ce1bc5c2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\6e5f69d953c2773ec575f8b7ce1bc5c2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6fec7a148b695bff70d8bd1e07380d23\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6fec7a148b695bff70d8bd1e07380d23\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\fd492a40737168e44e2681c85ce4db57\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\fd492a40737168e44e2681c85ce4db57\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\053aa3e344377c1ffa0616f8051d59bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\053aa3e344377c1ffa0616f8051d59bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7a91432bedd83f711c4284d43a61710c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7a91432bedd83f711c4284d43a61710c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:16:9-46
+	android:roundIcon
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:15:9-38
+	android:allowBackup
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:19:9-40
+activity#hamdan.JuniorDesign.DigitalNumPlateDetector.splash.SplashScreen
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:theme
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:21:13-91
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:26:27-74
+activity#hamdan.JuniorDesign.DigitalNumPlateDetector.editing.PhotoEditActivity
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:31:13-62
+	android:theme
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:30:13-97
+activity#hamdan.JuniorDesign.DigitalNumPlateDetector.photoedit.PhotoEditingActivity
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:35:13-65
+	android:theme
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:34:13-102
+activity#hamdan.JuniorDesign.DigitalNumPlateDetector.MainActivity
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:37:9-39:57
+	android:label
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:38:13-84
+meta-data#preloaded_fonts
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:41:9-43:57
+	android:resource
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:43:13-54
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:42:13-43
+activity#hamdan.JuniorDesign.DigitalNumPlateDetector.SeparateSentencesActivity
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:45:9-106
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:45:19-103
+activity#hamdan.JuniorDesign.DigitalNumPlateDetector.DisplaySQLiteDataActivity
+ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:46:9-115
+	android:name
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml:46:19-103
+uses-sdk
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b5e9ef467fa6d25bb43a561d6a158529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b5e9ef467fa6d25bb43a561d6a158529\AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\018d3728880a7617ff882e9718955428\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\018d3728880a7617ff882e9718955428\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad3e9b303dff5b1d90e4a964514907c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ad3e9b303dff5b1d90e4a964514907c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5cf639872b27bd3f86d3f14072b1fabf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5cf639872b27bd3f86d3f14072b1fabf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\6e5f69d953c2773ec575f8b7ce1bc5c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\6e5f69d953c2773ec575f8b7ce1bc5c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6fec7a148b695bff70d8bd1e07380d23\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6fec7a148b695bff70d8bd1e07380d23\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\fd492a40737168e44e2681c85ce4db57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\fd492a40737168e44e2681c85ce4db57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\dccbf5beb81c1ab32a152419a3ff47ac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\dccbf5beb81c1ab32a152419a3ff47ac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\053aa3e344377c1ffa0616f8051d59bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\053aa3e344377c1ffa0616f8051d59bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7a91432bedd83f711c4284d43a61710c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7a91432bedd83f711c4284d43a61710c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1d3a30ae8267b7bc3c3c1a97ade0f620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1d3a30ae8267b7bc3c3c1a97ade0f620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\053cc17f14cdf55068b111bca7342b72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\053cc17f14cdf55068b111bca7342b72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\74cad888e9aa95bf2f2f58e3c6414010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\74cad888e9aa95bf2f2f58e3c6414010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d70ca31c13f522892ec36932ee285b04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d70ca31c13f522892ec36932ee285b04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2b97991fb06e0e335bf7e10c2d2dfe52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2b97991fb06e0e335bf7e10c2d2dfe52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\da1ce5ce66525caea8008e82eb8f7f9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\da1ce5ce66525caea8008e82eb8f7f9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cb843a105905a97364c0170ceaee2cb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cb843a105905a97364c0170ceaee2cb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\be73780269ac1ca141860b78a38f3d34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\be73780269ac1ca141860b78a38f3d34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ec8d529d35aee7d74589d6062b1c8a70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ec8d529d35aee7d74589d6062b1c8a70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4dc41f6d4e9a8228bd77f22ad561cad7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4dc41f6d4e9a8228bd77f22ad561cad7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\f950d575c6000220fc010637638a36af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\f950d575c6000220fc010637638a36af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f5c0a2887a8096614b58b50af3f76aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f5c0a2887a8096614b58b50af3f76aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b1edc18462bbb5dff3d30f937fe41cec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b1edc18462bbb5dff3d30f937fe41cec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e988679613753c7c76b56ceff1c4c20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e988679613753c7c76b56ceff1c4c20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fadd91863e0dc40c320c7efce307733\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2fadd91863e0dc40c320c7efce307733\AndroidManifest.xml:20:5-44
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+		ADDED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Number Plate Detector\Guru\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c673ceed4e8947aa75cf1860f6aabbf3\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Virus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bbb67015e639752d6ffc7bac04b944cd\AndroidManifest.xml:24:13-58

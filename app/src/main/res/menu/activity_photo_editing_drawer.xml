@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/drawer_option_title">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/drawer_option_oval"
+                    android:title="@string/drawer_option_oval" />
+                <item
+                    android:id="@+id/drawer_option_rect"
+                    android:title="@string/drawer_option_rect" />
+                <item
+                    android:id="@+id/drawer_option_customized_overlay"
+                    android:title="@string/drawer_option_customized_overlay" />
+                <item
+                    android:id="@+id/drawer_option_min_max_override"
+                    android:title="@string/drawer_option_min_max" />
+                <item
+                    android:id="@+id/drawer_option_scale_center"
+                    android:title="@string/drawer_option_scale_center" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/drawer_option_title2">
+        <menu>
+            <item
+                android:id="@+id/drawer_option_toggle_scale"
+                android:title="@string/drawer_option_toggle_scale" />
+            <item
+                android:id="@+id/drawer_option_toggle_shape"
+                android:title="@string/drawer_option_toggle_shape" />
+            <item
+                android:id="@+id/drawer_option_toggle_guidelines"
+                android:title="@string/drawer_option_toggle_guidelines" />
+            <item
+                android:id="@+id/drawer_option_toggle_aspect_ratio"
+                android:title="@string/drawer_option_toggle_aspect_ratio" />
+            <item
+                android:id="@+id/drawer_option_toggle_auto_zoom"
+                android:title="@string/drawer_option_toggle_auto_zoom" />
+            <item
+                android:id="@+id/drawer_option_toggle_max_zoom"
+                android:title="@string/drawer_option_toggle_max_zoom" />
+            <item
+                android:id="@+id/drawer_option_set_initial_crop_rect"
+                android:title="@string/drawer_option_set_initial_crop_rect" />
+            <item
+                android:id="@+id/drawer_option_reset_crop_rect"
+                android:title="@string/drawer_option_reset_crop_rect" />
+            <item
+                android:id="@+id/drawer_option_toggle_multitouch"
+                android:title="@string/drawer_option_toggle_multitouch" />
+            <item
+                android:id="@+id/drawer_option_toggle_show_overlay"
+                android:title="@string/drawer_option_toggle_show_overlay" />
+            <item
+                android:id="@+id/drawer_option_toggle_show_progress_bar"
+                android:title="@string/drawer_option_toggle_show_progress_bar" />
+        </menu>
+    </item>
+
+</menu>

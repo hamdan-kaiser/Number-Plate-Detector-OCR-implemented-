@@ -76,6 +76,7 @@ public class DisplaySQLiteDataActivity extends AppCompatActivity {
                 TIME_Array
         );
 
+
         LISTVIEW.setAdapter(listAdapter);
 
         cursor.close();

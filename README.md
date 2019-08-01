@@ -12,3 +12,4 @@ Number Plate detection is an OCR and Image processing Android Based Application 
  *
  * Monim Kaiser Prince
  * Hamdan Kaiser
+This project is under [MIT LICENSE](LICENSE.txt)
